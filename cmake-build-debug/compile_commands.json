@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/zehra/Desktop/Ders Materyalleri/Veri Yapıları/LAB/13ekimLab/03/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/03.dir/main.c.o -c \"/Users/zehra/Desktop/Ders Materyalleri/Veri Yapıları/LAB/13ekimLab/03/main.c\"",
+  "file": "/Users/zehra/Desktop/Ders Materyalleri/Veri Yapıları/LAB/13ekimLab/03/main.c",
+  "output": "/Users/zehra/Desktop/Ders Materyalleri/Veri Yapıları/LAB/13ekimLab/03/cmake-build-debug/CMakeFiles/03.dir/main.c.o"
+}
+]
